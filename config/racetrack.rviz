@@ -29,7 +29,7 @@ Visualization Manager:
       Value: true
       Visual Enabled: true
     - Class: rviz/Marker
-      Enabled: true
+      Enabled: true 
       Marker Topic: /shape
       Name: Marker
       Namespaces:
@@ -50,7 +50,7 @@ Visualization Manager:
           Value: true
         Position:
           Alpha: 0.3
-          Color: 204; 51; 204
+          Color: 40; 40; 255
           Scale: 1
           Value: true
         Value: false
